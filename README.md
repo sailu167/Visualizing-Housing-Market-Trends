@@ -42,14 +42,10 @@ jupyter notebook
 
 👉 This dashboard provides an overview of housing prices, trends, and key insights.
 
----
-
 ### 📌 Story 1
 ![Story1](projectimages/story1.jpg)
 
 👉 This visualization explains how house prices vary based on different factors.
-
----
 
 ### 📌 Story 2
 ![Story2](projectimages/story2.jpg)
@@ -60,42 +56,41 @@ jupyter notebook
 
 👉 This graph shows housing market trends over time.
 
-# 👥 Team-wise Outputs
-Markdown
-# 👥 Team-wise Outputs
+## 📊 Project Output
 
-## 🔹 Team 1
-![T1-1](images/Team%201/Assignment1.jpg)
-![T1-2](images/Team%201/Assignment2.jpg)
-![T1-3](images/Team%201/Assignment3.jpg)
+# 🔹 Images Folder Outputs
 
----
+### 📌 Dashboard (Images Folder)
+![Dashboard](images/dashboard.jpg)
 
-## 🔹 Team 2
+👉 This dashboard provides a clear overview of housing prices, trends, and key insights.
 
-![Output1](images/team%202/assignment1.jpg)
-![Output2](images/team%202/assignment2.jpg)
-![Output3](images/team%202/assignment3.jpg)
+### 📌 Story 1 (Images Folder)
+![Story1](images/story1.jpg)
 
-👉 Team 2 housing data analysis and visualization outputs.
-## 🔹 Team 3
-![T3-1](images/Team%203/Assignment1.jpg)
-![T3-2](images/Team%203/Assignment2.jpg)
-![T3-3](images/Team%203/Assignment3.jpg)
+👉 This visualization explains price variations based on area and features.
+# 🔹 ProjectImages Folder Outputs
 
----
+### 📌 Dashboard (ProjectImages Folder)
+![Dashboard](projectimages/dashboard.jpg)
 
-## 🔹 Team 4
-![T4-1](images/Team%204/Assignment1.jpg)
-![T4-2](images/Team%204/Assignment2.jpg)
-![T4-3](images/Team%204/Assignment3.jpg)
+👉 This dashboard shows detailed analysis of housing market trends.
 
----
+### 📌 Story 1 (ProjectImages Folder)
+![Story1](projectimages/story1.jpg)
 
-## 🔹 Team 5
-![T5-1](images/Team%205/Assignment1.jpg)
-![T5-2](images/Team%205/Assignment2.jpg)
-![T5-3](images/Team%205/Assignment3.jpg)
+👉 This chart highlights how house prices change based on different factors.
+
+### 📌 Story 2 (ProjectImages Folder)
+![Story2](projectimages/story2.jpg)
+
+👉 This visualization compares house prices across multiple locations.
+
+### 📌 Story 3 (ProjectImages Folder)
+![Story3](projectimages/story3.jpg)
+
+👉 This graph shows market trends over time and price growth patterns.
+
 ## 📌 Conclusion
 
 The project successfully identifies housing trends and provides meaningful insights using data visualization techniques.
