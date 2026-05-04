@@ -61,41 +61,33 @@ jupyter notebook
 👉 This graph shows housing market trends over time.
 
 # 👥 Team-wise Outputs
+Markdown
+# 👥 Team-wise Outputs
 
 ## 🔹 Team 1
 ![T1-1](images/Team%201/assignment1.jpg)
 ![T1-2](images/Team%201/assignment2.jpg)
 ![T1-3](images/Team%201/assignment3.jpg)
 
-👉 Team 1 focuses on basic data visualization and insights.
-
 ## 🔹 Team 2
 ![T2-1](images/team%202/assignment1.jpg)
 ![T2-2](images/team%202/assignment2.jpg)
 ![T2-3](images/team%202/assignment3.jpg)
-
-👉 Team 2 focuses on comparing housing features and price variations.
 
 ## 🔹 Team 3
 ![T3-1](images/Team%203/assignment1.jpg)
 ![T3-2](images/Team%203/assignment2.jpg)
 ![T3-3](images/Team%203/assignment3.jpg)
 
-👉 Team 3 provides insights into trends and distributions.
 ## 🔹 Team 4
 ![T4-1](images/Team%204/assignment1.jpg)
 ![T4-2](images/Team%204/assignment2.jpg)
 ![T4-3](images/Team%204/assignment3.jpg)
 
-👉 Team 4 focuses on correlation and advanced analysis.
-
 ## 🔹 Team 5
 ![T5-1](images/Team%205/assignment1.jpg)
 ![T5-2](images/Team%205/assignment2.jpg)
 ![T5-3](images/Team%205/assignment3.jpg)
-
-👉 Team 5 presents final insights and conclusions.
-
 ## 📌 Conclusion
 
 The project successfully identifies housing trends and provides meaningful insights using data visualization techniques.
