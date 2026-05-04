@@ -72,12 +72,12 @@ Markdown
 ---
 
 ## 🔹 Team 2
-![T2-1](images/Team%202/Assignment1.jpg)
-![T2-2](images/Team%202/Assignment2.jpg)
-![T2-3](images/Team%202/Assignment3.jpg)
 
----
+![Output1](images/team%202/assignment1.jpg)
+![Output2](images/team%202/assignment2.jpg)
+![Output3](images/team%202/assignment3.jpg)
 
+👉 Team 2 housing data analysis and visualization outputs.
 ## 🔹 Team 3
 ![T3-1](images/Team%203/Assignment1.jpg)
 ![T3-2](images/Team%203/Assignment2.jpg)
