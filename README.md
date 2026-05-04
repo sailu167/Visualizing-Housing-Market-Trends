@@ -2,18 +2,30 @@
 
 🚀 Data Analytics Project  
 📈 Analyzing housing price trends using visualization techniques
+
 ## 📌 Project Overview
 This project focuses on analyzing housing market data to identify trends in prices, demand, and location-based variations. It uses data visualization techniques to present insights in an understandable format.
+
 ## 🎯 Objectives
 
 - Analyze housing price trends  
 - Identify high-demand locations  
 - Understand market patterns  
 - Create visual insights
+
+## ✨ Features
+
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data visualization using graphs  
+- Housing price trend analysis  
+- Team-wise analysis outputs
+
 ## 📊 Dataset
 
 - Source: (mention dataset source – Kaggle / CSV / etc.)  
 - Data includes: price, location, area, bedrooms, etc.  
+
 ## 🛠️ Tools & Technologies
 
 - Python  
@@ -21,19 +33,42 @@ This project focuses on analyzing housing market data to identify trends in pric
 - NumPy  
 - Matplotlib / Seaborn  
 - Jupyter Notebook  
+
 ## 📈 Visualizations
 
 - Price distribution  
 - Location-wise price comparison  
 - Trend analysis over time  
 - Correlation heatmap
+
 ## ⚙️ Installation & Setup
 
-git clone https://github.com/sailu167/housing-market-trends-analysis.git
-cd housing-market-trends-analysis
-pip install -r requirements.txt
+- git clone https://github.com/sailu167/housing-market-trends-analysis.git
+- cd housing-market-trends-analysis
+- pip install -r requirements.txt
+
 ## ▶️ How to Run
-jupyter notebook
+
+1. Open Jupyter Notebook
+2. Load dataset
+3. Run all cells
+4. View graphs and outputs
+
+## 📁 Project Structure
+
+├── Team1/
+│   ├── assignment1.jpg
+│   ├── assignment2.jpg
+│   ├── assignment3.jpg
+
+├── Team2/
+├── Team3/
+├── Team4/
+├── Team5/
+
+├── dataset.csv
+├── README.md
+
 ## 📤 Output
 ## 📊 Project Output
 
@@ -95,9 +130,17 @@ jupyter notebook
 
 The project successfully identifies housing trends and provides meaningful insights using data visualization techniques.
 
+## 🔮 Future Scope
 
+- Add machine learning models
+- Predict future house prices
+- Use real-time data
 
+## 👤 Author
 
+**Sailue Bhatraju**  
+- GitHub: https://github.com/sailu167  
+- Project: Visualizing Housing Market Trends
 
 
 
